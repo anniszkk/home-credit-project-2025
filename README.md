@@ -60,7 +60,7 @@ Model juara adalah **LightGBM** yang telah di-*tuning* dan dilatih pada **275 fi
 | **Recall** | **0.6926** | Berhasil mengidentifikasi **69.3%** dari semua klien yang akan gagal bayar. |
 | **Precision**| **0.1757** | Dari semua klien yang diprediksi berisiko, **17.6%** adalah prediksi yang benar. |
 
-*(Anda bisa menyisipkan gambar Confusion Matrix final Anda di sini jika Anda mengunggahnya ke repo)*
+<img width="1004" height="744" alt="image" src="https://github.com/user-attachments/assets/d3a07e18-c022-4075-8de5-51c7d3d3b25f" />
 
 ## 📈 4. Rekomendasi Bisnis
 
